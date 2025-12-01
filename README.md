@@ -16,7 +16,7 @@ The dataset contains columns such as:
 - sale_time  
 - total_sale  
 
-## 🚀 Key Analyses & Business Questions Solved
+##  Key Analyses & Business Questions Solved
 
 ### ** 1. Total number of rows / total sales records**
 Used to get complete dataset size.
